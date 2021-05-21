@@ -1,0 +1,36 @@
+.trenditem {
+  display: flex;
+  margin-top: 15px;
+  border-bottom: grey 1px solid;
+  /* align-items: center; */
+}
+
+.rank {
+  font-size: 1.7em;
+}
+
+.articleinfo {
+  margin-left: 30px;
+  margin-bottom: 10px;
+}
+
+.likes {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-left: 30px;
+}
+
+.creator {
+  color: grey;
+}
+.title {
+  font-weight: 900;
+  font-size: 1.3em;
+}
+
+/* .date {
+} */
+.likeamount {
+  padding-bottom: 10px;
+}

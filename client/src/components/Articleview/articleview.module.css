@@ -1,0 +1,40 @@
+.articleview {
+  /* border: grey 1px solid; */
+  max-width: 800px;
+  display: flex;
+  flex-direction: row;
+  margin: 90px 0px;
+
+  object-fit: contain;
+}
+
+.info {
+  margin-right: 10%;
+}
+
+.creator {
+  font-weight: bold;
+}
+
+.title {
+  font-size: 2em;
+  font-weight: bolder;
+}
+
+.description {
+  color: rgb(172, 172, 172);
+  font-size: 1.2em;
+}
+
+.tags {
+  margin-top: 25px;
+  /* margin-bottom: 15px; */
+  display: flex;
+  justify-content: start;
+}
+
+.image {
+  /* object-fit: contain; */
+  max-width: 300px;
+  max-height: 250px;
+}

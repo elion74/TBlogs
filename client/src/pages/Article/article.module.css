@@ -1,0 +1,13 @@
+.article {
+  width: 50%;
+  margin: 50px auto;
+}
+
+.article_title {
+  font-size: 2.2em;
+}
+
+.article_content {
+  margin-top: 70px;
+  margin-bottom: 50px;
+}

@@ -1,0 +1,31 @@
+.navbar {
+  background-color: #023047;
+  height: 120px;
+  width: 100%;
+
+  display: flex;
+  align-items: center;
+}
+.tblogs {
+  margin: 0;
+  margin-left: 10%;
+  font-size: 3em;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.icon {
+  padding-left: 20%;
+}
+
+.myblogs {
+  padding-left: 20%;
+  margin: 0px;
+  font-size: 2em;
+}
+
+.logout {
+  padding-left: 20%;
+  font-size: 2em;
+  color: white;
+}
